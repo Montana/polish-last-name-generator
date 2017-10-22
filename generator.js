@@ -1,5 +1,5 @@
 var nameW = ['Fampalski, Cranpalski, Pamppalski, Dabrowkski, Lewandowski, Kaminscki, Sampalski, Fanpalski, Crampalski,'];
-var nanmeM = ['Nampalski, Bampalski']
+var nameM = ['Nampalski, Bampalski']
 
 function pickNameM(){
     var userInput = inputForm.input.value;
