@@ -2,6 +2,6 @@
 
 A generator written in JavaScript that generates polish last names that I created 
 
-## Disclamer
+## Disclaimer
 
-I am not polish
+I am not Polish
